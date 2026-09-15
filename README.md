@@ -1,4 +1,4 @@
-✈️ Vera Travel
+✈️ **Vera Travel**
 
 **Vera Travel** is a web development project built with **HTML5, Tailwind CSS and DaisyUI**, created as part of the Software Development course at the Digital Career Institute (DCI).
 
